@@ -19,7 +19,8 @@ Contribuciones
 Licencia
 
 Descripción del Proyecto
-El objetivo de este análisis es explorar la relación entre las reseñas (positivas, negativas, de usuarios, de críticos, etc.) y las ventas de videojuegos en distintos períodos de tiempo. Con ello, se busca descubrir patrones o correlaciones que ayuden a comprender mejor cómo las opiniones y la frecuencia de publicaciones de reseñas pueden influir en el rendimiento comercial de un juego indie.
+
+Publicacion de un genero de videojuego tiene correlacion negativa con ventas totales en relacion con la frequencia de publicaciones de ese genero en un periodo de tiempo (semanas -> meses)
 
 Aspectos clave:
 
