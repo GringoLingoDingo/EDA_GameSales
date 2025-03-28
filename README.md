@@ -4,7 +4,7 @@ Este repositorio contiene un análisis de ventas de videojuegos con el objetivo 
 Tabla de Contenidos
 Descripción del Proyecto
 
-Hipótesis
+Hipótesis Principal
 
 Publicacion de un genero de videojuego tiene correlacion negativa con ventas totales en relacion con la frequencia de publicaciones de ese genero en un periodo de tiempo (semanas -> meses)
 
@@ -18,15 +18,14 @@ Impacto de la cantidad total de reseñas en el crecimiento de las ventas a lo la
 
 Ejemplo hipotético para demostrar métodos de análisis y visualización de datos.
 
-Hipótesis
-Hipótesis 1: Los videojuegos tienen ventas proporcionales a la multiplicación de sus reseñas totales por 50.
+Hipótesis 2: Los videojuegos tienen ventas proporcionales a la multiplicación de sus reseñas totales por 50.
 
 "Games have sales equal to their reviews times 50"
 
-Hipótesis 2: Los videojuegos con un alto número de reseñas positivas generan un 30% más de ventas.
+Hipótesis 3: Los videojuegos con un alto número de reseñas positivas generan un 30% más de ventas.
 
 "Games with high number of positive reviews gain 30% more sales"
 
-Hipótesis 3: Las reseñas de los usuarios influyen más en las ventas que las reseñas de los críticos.
+Hipótesis 4(futuro): Las reseñas de los usuarios influyen más en las ventas que las reseñas de los críticos.
 
 "User reviews matter more than critic reviews"
