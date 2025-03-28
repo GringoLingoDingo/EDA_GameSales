@@ -6,20 +6,6 @@ Descripción del Proyecto
 
 Hipótesis
 
-Estructura del Repositorio
-
-Instalación y Ejecución
-
-Uso
-
-Fuentes de Datos
-
-Contribuciones
-
-Licencia
-
-Descripción del Proyecto
-
 Publicacion de un genero de videojuego tiene correlacion negativa con ventas totales en relacion con la frequencia de publicaciones de ese genero en un periodo de tiempo (semanas -> meses)
 
 Aspectos clave:
