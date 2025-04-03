@@ -1,4 +1,5 @@
 # Exploratory Data Analysis of Video Game Sales 📊🎮
+### Link: https://www.canva.com/design/DAGiv1pQjvk/h_kT5SsPZFyz_-DHpmRZVQ/edit
 
 ## Project Overview
 This repository presents an Exploratory Data Analysis (EDA) focused on evaluating the relationship between the frequency of video game genre publications and their corresponding sales performance. Additionally, the analysis investigates how critical reception, specifically Metacritic scores, impacts game sales.
